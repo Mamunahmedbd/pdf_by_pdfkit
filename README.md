@@ -2,7 +2,7 @@
 
 <center>
   <a href="https://pspdfkit.com/web">
-    <img src="./screenshot.png" alt="Screenshot of an invoice PDF in the PSPDFKit for Web reader." width="1009">
+    <img src="./demo_PDF.png" alt="Screenshot of an invoice PDF in the PSPDFKit for Web reader." width="1009">
   </a>
 </center>
 
